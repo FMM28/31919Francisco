@@ -1,0 +1,23 @@
+img{
+    width: 75vw;
+    height: auto;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9CD9CB;
+}
+
+h1{
+    color: #D996AA;
+}
+
+h2{
+    color: #c4863b;
+}
+
+html{
+    background-color: #9CD9CB;
+}
